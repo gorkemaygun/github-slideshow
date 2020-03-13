@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our third slide!"
 ---
-Your text
+App text
 Use the left arrow to go back!
 Title changed.
